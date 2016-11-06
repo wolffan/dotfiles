@@ -75,6 +75,7 @@ brew cask install polar-websync
 brew cask install atom
 brew cask install flux
 brew cask install sketch
+brew install fish
 
 #Unavailable
 Patterns
