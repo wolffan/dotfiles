@@ -35,7 +35,6 @@ brew tap caskroom/cask
 brew cask install google-chrome
 brew cask install chrome-devtools
 brew cask install firefox
-brew cask install alfred
 brew cask install coderunner
 brew cask install disk-inventory-x
 brew cask install 1password
@@ -64,10 +63,16 @@ brew install fish
 #Pages
 #PixelMator
 #Sip
-#Twittter
+#Twitter
 #Deckset
 #Xcode
 #Watchdog
+#Twist
+#Skype
+#Messenger 2
+#Visual Studio
+#Charles
+
 
 
 # Remove outdated versions from the cellar.
